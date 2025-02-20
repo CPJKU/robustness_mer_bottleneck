@@ -1,2 +1,3 @@
-# robustness_mer_bottleneck
-Tests for the adversarial robustness of a concept bottleneck model for MER. 
+# On the Robustness of an Inherently Interpretable MER Model
+
+Here, the code for the paper "On the Robustness of an Inherently Interpretable MER Model" will be published. This site is under construction, more will follow soon...
