@@ -1,0 +1,14 @@
+Cython
+numpy
+pandas==1.5.2
+scikit_learn
+scipy==1.10.0
+torch==1.13.1
+tqdm
+xlrd==2.0.1
+ipykernel
+matplotlib==3.7.2
+seaborn==0.12.2
+pyyaml
+librosa
+tensorboard==2.12.2

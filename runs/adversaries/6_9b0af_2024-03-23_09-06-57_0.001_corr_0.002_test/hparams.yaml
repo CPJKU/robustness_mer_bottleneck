@@ -1,0 +1,11 @@
+alpha: null
+architecture: a2m2e
+clip_eps: 0.001
+conv_method: corr
+lr: 0.002
+max_iters: 1000
+mode: untargeted
+model: 9b0af_2024-03-23_09-06-57
+optimiser: Adam
+sign: true
+target: random

@@ -1,0 +1,9 @@
+alpha: null
+clip_eps: 0.001
+conv_method: corr
+lr: 0.002
+max_iters: 1000
+mode: untargeted
+optimiser: Adam
+sign: true
+target: random

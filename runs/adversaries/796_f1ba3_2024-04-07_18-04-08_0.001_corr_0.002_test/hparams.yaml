@@ -1,0 +1,11 @@
+alpha: null
+architecture: a2e
+clip_eps: 0.001
+conv_method: corr
+lr: 0.002
+max_iters: 1000
+mode: untargeted
+model: f1ba3_2024-04-07_18-04-08
+optimiser: Adam
+sign: true
+target: random
